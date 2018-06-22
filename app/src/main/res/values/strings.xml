@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Alert Dialerbox</string>
+    <string name="enter_your_no">enter_your_no</string>
+    <string name="button">button</string>
+    <string name="phone">phone</string>
+    <string name="enter_your_age">enter_your_age</string>
+    <string name="age">age</string>
+    <string name="enter_your_name">enter_your_name</string>
+    <string name="name">Name</string>
+    <string name="enter_your_email">enter_your_email</string>
+    <string name="email">Email</string>
+    <string name="enter_your_country">enter_your_Country</string>
+    <string name="country">Country</string>
+    <string name="states">States</string>
+    <string name="enter_your_state">enter_your_state</string>
+</resources>
